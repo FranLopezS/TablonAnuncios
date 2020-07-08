@@ -1,0 +1,44 @@
+/* Fondo */
+
+body {
+	background-attachment: fixed;
+}
+
+/* Sesión */
+
+.session {
+	position: absolute;
+	color: #d3872e;
+	background-color: #b25a19;
+	margin-top: 0.5%;
+	margin-left: 55%;
+	border-style: solid;
+	border-color: #d3872e;
+	border-width: 1px;
+	padding: 5px;
+}
+
+/* Tablón */
+
+.tablon {
+	float: left;
+	background-image:url(wood.jpg);
+	width: 90%;
+	height: 80%;
+	margin-left: 5%;
+	border-style: solid;
+	border-color: #d3872e;
+	border-width: 2px;
+}
+
+.hoja {
+	position: absolute;
+	background-color: white;
+	width: 79%;
+	height: 4.5%;
+	margin-top: 1%;
+	margin-left: 5%;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+}

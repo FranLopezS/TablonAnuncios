@@ -1,0 +1,249 @@
+body {
+				background-attachment: fixed;
+			}
+			.session {
+				position: absolute;
+				color: #d3872e;
+				background-color: #b25a19;
+				margin-top: 0.5%;
+				margin-left: 55%;
+				border-style: solid;
+				border-color: #d3872e;
+				border-width: 1px;
+				padding: 5px;
+			}
+			.tablon {
+				float: left;
+				background-image:url(wood.jpg);
+				width: 90%;
+				height: 80%;
+				margin-left: 5%;
+				margin-top: 5%;
+				border-style: solid;
+				border-color: #d3872e;
+				border-width: 2px;
+			}
+			.autor {
+				position: absolute;
+				margin-top: 40%;
+				margin-left: 55%;
+			}
+			.titulo {
+				position: absolute;
+				margin-top: 8%;
+				margin-left: 15%;
+			}
+			.cuerpo {
+				position: absolute;
+				width: 60%;
+				height: 50%;
+				margin-left: 20.2%;
+				background-color: white;
+				border-radius: 10px;
+				padding: 5px;
+				color: black;
+			}
+			.boton {
+				position: absolute;
+				width: 5%;
+				height: 10%;
+				margin-top: 7%;
+				margin-left: 93%;
+				background-image:url(wood.jpg);
+				border-radius: 50px;
+			}
+			h2 {
+				color: white;
+				font: 700 40px Century Gothic;
+				padding-top: 20px;
+				padding-bottom: 20px;
+				background-color: black;
+				text-align: center;
+			}
+			.circulo1 {
+	position: absolute;
+	background-color: #b25a19;
+	border-radius: 30px;
+	width: 19%;
+	height: 10%;
+	margin-top: 33%;
+	margin-left: 10%;
+	border-style: solid;
+	border-color: #d3872e;
+	border-width: 2px;
+}
+
+.circulo2 {
+	position: absolute;
+	background-color: #b25a19;
+	border-radius: 30px;
+	width: 19%;
+	height: 10%;
+	margin-top: 33%;
+	margin-left: 30%;
+	border-style: solid;
+	border-color: #d3872e;
+	border-width: 2px;
+}
+
+.circulo3 {
+	position: absolute;
+	background-color: #b25a19;
+	border-radius: 30px;
+	width: 19%;
+	height: 10%;
+	margin-top: 33%;
+	margin-left: 50%;
+	border-style: solid;
+	border-color: #d3872e;
+	border-width: 2px;
+}
+
+.circulo4 {
+	position: absolute;
+	background-color: #b25a19;
+	border-radius: 30px;
+	width: 19%;
+	height: 10%;
+	margin-top: 33%;
+	margin-left: 70%;
+	border-style: solid;
+	border-color: #d3872e;
+	border-width: 2px;
+}
+
+.img1 {
+	position: absolute;
+	margin-top: 34.1%;
+	margin-left: 16%;
+}
+
+.img2 {
+	position: absolute;
+	margin-top: 33%;
+	margin-left: 34.7%;
+}
+
+.img3 {
+	position: absolute;
+	margin-top: 33%;
+	margin-left: 55.2%;
+}
+
+.img4 {
+	position: absolute;
+	margin-top: 33%;
+	margin-left: 80%;
+}
+
+.hoja {
+	position: absolute;
+	background-image: url("papel.jpg");
+	/*background-color: white;*/
+	width: 70%;
+	height: 62%;
+	margin-left: 15%;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+}
+
+.chincheta {
+	position: absolute;
+	background-color: blue;
+	border-radius: 50px;
+	width: 2%;
+	height: 4%;
+	margin-left: 48.9%;
+	margin-top: 1%;
+}
+
+.autor {
+	position: absolute;
+	margin-top: 27%;
+	margin-left: 55%;
+}
+
+.titulo {
+	position: absolute;
+	margin-top: 3%;
+	margin-left: 25%;
+}
+
+.cuerpo {
+	position: absolute;
+	width: 60%;
+	height: 50%;
+	margin-top: 7%;
+	margin-left: 20.2%;
+}
+
+.punto1 {
+	position: absolute;
+	margin-top: 29.7%;
+	margin-left: 8%;
+}
+
+.punto2 {
+	position: absolute;
+	margin-top: 29.7%;
+	margin-left: 12%;
+}
+
+.punto3 {
+	position: absolute;
+	margin-top: 29.7%;
+	margin-left: 16%;
+}
+
+.punto4 {
+	position: absolute;
+	margin-top: 29.7%;
+	margin-left: 20%;
+}
+
+.punto5 {
+	position: absolute;
+	margin-top: 29.7%;
+	margin-left: 24%;
+}
+
+.punto6 {
+	position: absolute;
+	margin-top: 29.7%;
+	margin-left: 28%;
+}
+
+.punto7 {
+	position: absolute;
+	margin-top: 29.7%;
+	margin-left: 32%;
+}
+
+.punto8 {
+	position: absolute;
+	margin-top: 29.7%;
+	margin-left: 36%;
+}
+
+.punto9 {
+	position: absolute;
+	margin-top: 29.7%;
+	margin-left: 40%;
+}
+
+.punto10 {
+	position: absolute;
+	margin-top: 29.7%;
+	margin-left: 44%;
+}
+.editor {
+	position: absolute;
+	margin-top: 3%;
+	margin-left: 6.5%;
+}
+.permisos {
+	position: absolute;
+	margin-top: 7%;
+	margin-left: 5.4%;
+}
