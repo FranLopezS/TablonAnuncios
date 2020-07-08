@@ -1,0 +1,10 @@
+TABLÓN DE ANUNCIOS DESARROLLADO POR FRANCISCO LÓPEZ SÁNCHEZ EN EL LENGUAJE DE PROGRAMACIÓN PHP
+· Publica anuncios que se borrarán cuando llegue su fecha límite.
+· Administra usuarios con tres tipos de permisos diferentes.
+· Explicación más detallada en el archivo: Explicación Tablón de Anuncios FranciscoLopezSanchez.pdf
+
+1. Instalar XAMPP.
+2. Introducir el proyecto en la carpeta htdocs.
+3. Importar tablon.sql en phpmyadmin, en una nueva base de datos llamada 'tablon'.
+4. Ejecutar el programa desde el navegador.
+5. Inicia sesión con el usuario admin@admin.com, cuya contraseña es admin.
